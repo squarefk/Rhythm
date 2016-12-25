@@ -146,6 +146,8 @@
      <Compile Include="Assets\leap motion\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\leap motion\OVR\Scripts\Util\OVRUGUI.cs" />
      <Compile Include="Assets\leap motion\OVR\Scripts\Util\OVRVisionGuide.cs" />
+     <Compile Include="Assets\scripts\AbstractSound.cs" />
+     <Compile Include="Assets\scripts\DrumSound.cs" />
      <Compile Include="Assets\scripts\MotionDetection.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\leap motion\LeapMotion\Materials\Sources\Shaders\Toony-Basic.shader" />
