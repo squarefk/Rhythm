@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/leap motion/LeapMotion/Scripts/HandController.cs">
+    <Files>
+      <File FileName="Assets/leap motion/LeapMotion/Scripts/HandController.cs" Line="30" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rhythm" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="leap motion" expanded="True">
+                <Node name="LeapMotion" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Hands" expanded="True" />
+                    <Node name="HandController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Rhythm" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
